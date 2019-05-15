@@ -1,0 +1,1 @@
+https://s3-api.us-geo.objectstorage.softlayer.net/pythdatascience/index.html?Signature=rrdCA%2FcOk318tjjMaHiVao%2F772A%3D&AWSAccessKeyId=9228e7c585e947e3b39dbcca367f1f6d&Expires=1558187927
